@@ -344,7 +344,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 //Testimonial section start//
-ddocument.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
   const carousel = document.querySelector('.testimonials-carousel');
   const slides = document.querySelectorAll('.testimonial-slide');
   const dotsContainer = document.querySelector('.dots-container');
